@@ -1,0 +1,154 @@
+
+[
+	
+{
+		"Year":"2009","Months":
+{
+			"Month":"June","Dates":
+{
+				"Mdate":"1","Times":
+{
+					"Date_Time":" 01-JUN-2009 00:00","SensorInfo":
+{
+						"Sensor_ID":"4","Sensor_Name":"Town Hall (West)","Time":"0","Hourly_Counts":194
+					}
+				},"Day":"Monday"
+			}
+		}
+	},
+{
+		"Year":"2009","Months":
+{
+			"Month":"June","Dates":
+{
+				"Mdate":"1","Times":
+{
+					"Date_Time":" 01-JUN-2009 00:00","SensorInfo":
+{
+						"Sensor_ID":"17","Sensor_Name":"Collins Place (South)","Time":"0","Hourly_Counts":21
+					}
+				},"Day":"Monday"
+			}
+		}
+	},
+{
+		"Year":"2009","Months":
+{
+			"Month":"June","Dates":
+{
+				"Mdate":"1","Times":
+{
+					"Date_Time":" 01-JUN-2009 00:00","SensorInfo":
+{
+						"Sensor_ID":"18","Sensor_Name":"Collins Place (North)","Time":"0","Hourly_Counts":9
+					}
+				},"Day":"Monday"
+			}
+		}
+	},
+{
+		"Year":"2009","Months":
+{
+			"Month":"June","Dates":
+{
+				"Mdate":"1","Times":
+{
+					"Date_Time":" 01-JUN-2009 00:00","SensorInfo":
+{
+						"Sensor_ID":"16","Sensor_Name":"Australia on Collins","Time":"0","Hourly_Counts":39
+					}
+				},"Day":"Monday"
+			}
+		}
+	},
+{
+		"Year":"2009","Months":
+{
+			"Month":"June","Dates":
+{
+				"Mdate":"1","Times":
+{
+					"Date_Time":" 01-JUN-2009 00:00","SensorInfo":
+{
+						"Sensor_ID":"2","Sensor_Name":"Bourke Street Mall (South)","Time":"0","Hourly_Counts":28
+					}
+				},"Day":"Monday"
+			}
+		}
+	},
+{
+		"Year":"2009","Months":
+{
+			"Month":"June","Dates":
+{
+				"Mdate":"1","Times":
+{
+					"Date_Time":" 01-JUN-2009 00:00","SensorInfo":
+{
+						"Sensor_ID":"1","Sensor_Name":"Bourke Street Mall (North)","Time":"0","Hourly_Counts":37
+					}
+				},"Day":"Monday"
+			}
+		}
+	},
+{
+		"Year":"2009","Months":
+{
+			"Month":"June","Dates":
+{
+				"Mdate":"1","Times":
+{
+					"Date_Time":" 01-JUN-2009 00:00","SensorInfo":
+{
+						"Sensor_ID":"13","Sensor_Name":"Flagstaff Station","Time":"0","Hourly_Counts":1
+					}
+				},"Day":"Monday"
+			}
+		}
+	},
+{
+		"Year":"2009","Months":
+{
+			"Month":"June","Dates":
+{
+				"Mdate":"1","Times":
+{
+					"Date_Time":" 01-JUN-2009 00:00","SensorInfo":
+{
+						"Sensor_ID":"3","Sensor_Name":"Melbourne Central","Time":"0","Hourly_Counts":155
+					}
+				},"Day":"Monday"
+			}
+		}
+	},
+{
+		"Year":"2009","Months":
+{
+			"Month":"June","Dates":
+{
+				"Mdate":"1","Times":
+{
+					"Date_Time":" 01-JUN-2009 00:00","SensorInfo":
+{
+						"Sensor_ID":"15","Sensor_Name":"State Library","Time":"0","Hourly_Counts":98
+					}
+				},"Day":"Monday"
+			}
+		}
+	},
+{
+		"Year":"2009","Months":
+{
+			"Month":"June","Dates":
+{
+				"Mdate":"1","Times":
+{
+					"Date_Time":" 01-JUN-2009 00:00","SensorInfo":
+{
+						"Sensor_ID":"9","Sensor_Name":"Southern Cross Station","Time":"0","Hourly_Counts":7
+					}
+				},"Day":"Monday"
+			}
+		}
+	}
+]
